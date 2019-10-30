@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163608205299",
+    "firebase_url": "https://flash-chat-dee9a.firebaseio.com",
+    "project_id": "flash-chat-dee9a",
+    "storage_bucket": "flash-chat-dee9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163608205299:android:48193fb8dfcd6782ee6486",
+        "android_client_info": {
+          "package_name": "com.ghaff.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163608205299-s9b5v4munuobo2vh55r9i8ph5ctlvi9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydEK7-pPaMG-C_7j1faJVc1t0ErPyLYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163608205299-s9b5v4munuobo2vh55r9i8ph5ctlvi9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
